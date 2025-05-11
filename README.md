@@ -50,13 +50,6 @@ It implements a simulation of the classic **Dining Philosophers Problem**, where
 
 ---
 
-## 🧪 How to Run
-
-```bash
-make
-./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
-
----
 
 ## ✅ Evaluation Result
 
