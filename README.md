@@ -61,4 +61,5 @@ make
 ## ✅ Evaluation Result
 
 Here’s a screenshot of the successful evaluation (score: 100%) from the 42 intranet.
-![Uploading Screen Shot 2025-05-11 at 6.42.10 PM.png…]()
+<img width="1097" alt="Screen Shot 2025-05-11 at 6 42 10 PM" src="https://github.com/user-attachments/assets/685fc9b6-eeab-4e1d-b047-d8cc5baeeb27" />
+
